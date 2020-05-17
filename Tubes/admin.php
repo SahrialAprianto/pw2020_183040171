@@ -102,7 +102,7 @@ if( isset($_POST["cari"]) ) {
 
 	<!-- <a href="logout.php" class="logout">Logout</a> | <a href="cetak.php" target="_blank">Cetak</a> -->
 
-	<h1 align="center">Daftar Film Indonesia</h1>
+	<h1 align="center">Elektronik</h1>
 	<!-- <a href="tambah.php" class="tambah">Tambah Referensi Film</a> -->
 	<br><br>
 
